@@ -12,6 +12,8 @@ namespace App1
 		public MainPage()
 		{
 			InitializeComponent();
+			//adsadsdasadsad
+			//asdsadsdasaddsa
 		}
 	}
 }
