@@ -28,6 +28,7 @@ namespace App1.iOS
             //sffsdfds
             //sffsdfsd
             //sdfsdfsd
+			//asdasdasd
             return base.FinishedLaunching(app, options);
         }
     }
